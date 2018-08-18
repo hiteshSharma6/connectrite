@@ -1,0 +1,17 @@
+[
+  {
+    "plan": "bronze",
+    "price": 2499,
+    "sms": 5000
+  },
+  {
+    "plan": "silver",
+    "price": 7999,
+    "sms": 20000
+  },
+  {
+    "plan": "gold",
+    "price": 12999,
+    "sms": 40000
+  }
+]
